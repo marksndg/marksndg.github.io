@@ -1,0 +1,74 @@
+/* Add your custom CSS here */
+
+body { font-family: 'Roboto Slab', sans-serif; } 
+
+nav.theme-light ul.links-wrapper li a:link,
+nav.theme-light ul.links-wrapper li a:visited { color: var(--trans-000) }
+nav.theme-light,
+nav.theme-light ul.links-wrapper.active { background-color: var(--trans-000) }
+nav.theme-light,
+nav.theme-light ul.links-wrapper.active { background-color: var(--trend-800) }
+nav.theme-light,
+nav.theme-light ul.links-wrapper.active { background-color: var(--trans-000) }
+nav.theme-light .nav-toggle .bar-1,
+nav.theme-light .nav-toggle .bar-2,
+nav.theme-light .nav-toggle .bar-3 { background-color: var(--trans-000) }
+nav.theme-light .nav-toggle .bar-1,
+nav.theme-light .nav-toggle .bar-2,
+nav.theme-light .nav-toggle .bar-3 { background-color: var(--white-000) }
+nav.theme-light .nav-toggle .bar-1,
+nav.theme-light .nav-toggle .bar-2,
+nav.theme-light .nav-toggle .bar-3 { background-color: var(--black-000) }
+nav.theme-light .nav-toggle .bar-1,
+nav.theme-light .nav-toggle .bar-2,
+nav.theme-light .nav-toggle .bar-3 { background-color: var(--black-000) }
+@media (max-width: 767px) { nav.theme-light ul.links-wrapper.active { background-color: var(--trans-000) } }
+nav.theme-light a#btn-cta:link,
+nav.theme-light a#btn-cta:visited { background-color: var(--trans-000) }
+nav.theme-light a#btn-cta:focus,
+nav.theme-light a#btn-cta:hover,
+nav.theme-light a#btn-cta:active { background-color: var(--gray-800) }
+nav.theme-light a#btn-cta:link,
+nav.theme-light a#btn-cta:visited { border-color: var(--trans-000) }
+header.hero-bg > .container-overlay { background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)); } 
+@media (max-width: 767px) { nav.theme-light ul.links-wrapper.active a#btn-cta:link,
+nav.theme-light ul.links-wrapper.active a#btn-cta:visited { color: var(--white-000) } }
+nav.theme-light .nav-toggle .bar-1,
+nav.theme-light .nav-toggle .bar-2,
+nav.theme-light .nav-toggle .bar-3 { background-color: var(--trans-000) }
+nav.theme-light .nav-toggle { background-color: var(--trans-000) }
+nav.theme-light .nav-toggle .bar-1,
+nav.theme-light .nav-toggle .bar-2,
+nav.theme-light .nav-toggle .bar-3 { background-color: var(--white-000) }
+nav.theme-light .nav-toggle .bar-1,
+nav.theme-light .nav-toggle .bar-2,
+nav.theme-light .nav-toggle .bar-3 { background-color: var(--slate-800) }
+nav.theme-light .nav-toggle .bar-1,
+nav.theme-light .nav-toggle .bar-2,
+nav.theme-light .nav-toggle .bar-3 { background-color: var(--gray-800) }
+nav.theme-light .nav-toggle .bar-1,
+nav.theme-light .nav-toggle .bar-2,
+nav.theme-light .nav-toggle .bar-3 { background-color: var(--gray-600) }
+nav.theme-light .nav-toggle .bar-1,
+nav.theme-light .nav-toggle .bar-2,
+nav.theme-light .nav-toggle .bar-3 { background-color: var(--gray-500) }
+nav.theme-light .nav-toggle .bar-1,
+nav.theme-light .nav-toggle .bar-2,
+nav.theme-light .nav-toggle .bar-3 { background-color: var(--gray-400) }
+nav.theme-light .nav-toggle .bar-1,
+nav.theme-light .nav-toggle .bar-2,
+nav.theme-light .nav-toggle .bar-3 { background-color: var(--gray-300) }
+nav.theme-light .nav-toggle .bar-1,
+nav.theme-light .nav-toggle .bar-2,
+nav.theme-light .nav-toggle .bar-3 { background-color: var(--gray-400) }
+
+
+.section-selector-1 { background-color: var(--gray-700) }
+.section-selector-1 .flex-cols-3 .col-3 a.col-3-h3:link,
+.section-selector-1 .flex-cols-3 .col-3 a.col-3-h3:visited { color: var(--sky-300) }
+
+.section-selector-2 .flex-cols-3 .col-3 a.col-3-h3:link,
+.section-selector-2 .flex-cols-3 .col-3 a.col-3-h3:visited { color: var(--sky-300) }
+.section-selector-2 { background-color: var(--gray-900) }
+
+

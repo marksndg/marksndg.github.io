@@ -1,0 +1,8 @@
+/* Add your custom CSS here */
+header.theme-light { background-color: var(--green-400) }
+
+.section-selector-1 { background-color: var(--indigo-300) }
+.section-selector-1 a.btn:focus,
+.section-selector-1 a.btn:hover,
+.section-selector-1 a.btn:active { color: var(--blue-400) }
+

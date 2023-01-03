@@ -1,0 +1,142 @@
+/* Add custom style here  */
+
+#hero-1 header.theme-dark { background-color: var(--blue-700) }
+
+
+#hero-2 header.hero-bg > .container-overlay { background-image: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)); }
+#hero-2 header.theme-dark .container-btn a.btn:nth-child(1):link,
+#hero-2 header.theme-dark .container-btn a.btn:nth-child(1):visited { background-color: var(--green-400) }
+
+#hero-2 header.hero-bg > .container-overlay { background-image: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)); }
+#hero-2 header.theme-dark .container-btn a.btn:nth-child(1):link,
+#hero-2 header.theme-dark .container-btn a.btn:nth-child(1):visited { background-color: var(--green-400) }
+
+#hero-2 header.theme-dark .container-btn a.btn:nth-child(1):link,
+#hero-2 header.theme-dark .container-btn a.btn:nth-child(1):visited { border-color: var(--green-400) }
+#hero-2 header.theme-dark .container-btn a.btn:nth-child(2):link,
+#hero-2 header.theme-dark .container-btn a.btn:nth-child(2):visited { background-color: var(--green-400) }
+
+#hero-2 h1 { font-family: 'Bebas Neue', cursive; 
+letter-spacing: 4px;
+font-size: calc(60px + (120 - 60) * ((100vw - 320px)/ (1600 - 320)));
+}
+
+
+#hero-3 h1 {
+    font-family: 'Abril Fatface', serif;
+    font-size: calc(60px + (120 - 60) * ((100vw - 320px)/ (1600 - 320)));
+ }
+
+
+#hero-4 {margin-top: 80px}
+
+#hero-4 header.theme-light { background-color: var(--trend-100) }
+
+#hero-4 header h1 { 
+    font-family: 'Prata', serif; 
+    font-weight: 400;
+}
+
+#hero-5 header.upper-label {
+    text-decoration: underline;
+    text-decoration-thickness: 2px;
+    text-underline-offset: 7px;
+    text-decoration-color: #64f4ac;
+    text-decoration-style: wavy;
+ }
+ 
+
+
+#hero-5 header.theme-light .badge { color: var(--white-000) }
+#hero-5 header.theme-light .badge { background-color: var(--black-000) }
+#hero-5 header.theme-light h1 { color: var(--green-500) }
+#hero-5 header.theme-light h2 { color: var(--white-000) }
+#hero-5 header.theme-light .container-btn a.btn:nth-child(2):link,
+#hero-5 header.theme-light .container-btn a.btn:nth-child(2):visited { background-color: var(--green-400) }
+
+#hero-5 header.theme-light .container-btn a.btn:nth-child(2):link,
+#hero-5 header.theme-light .container-btn a.btn:nth-child(2):visited { border-color: var(--green-400) }
+
+#hero-5 header.theme-light .container-btn a.btn:nth-child(1):link,
+#hero-5 header.theme-light .container-btn a.btn:nth-child(1):visited { border-color: var(--green-400) }
+
+#hero-5 header.theme-light { background-color: var(--black-000) }
+#hero-5 header.theme-light .container-btn a.btn:nth-child(2):link,
+#hero-5 header.theme-light .container-btn a.btn:nth-child(2):visited { color: var(--black-000) }
+
+
+
+#hero-6 .theme-light { background-color: var(--rose-300) }
+#hero-6 .theme-light .container-btn a.btn:nth-child(2):link,
+#hero-6 .theme-light .container-btn a.btn:nth-child(2):visited { background-color: var(--pink-700) }
+
+#hero-6 .theme-light .badge { background-color: var(--purple-700) }
+
+#hero-6 header h1 { 
+    font-family: 'Playfair Display', serif; 
+    font-weight: 500;
+    line-height: 1.2;
+    color: var(--ontrend-900);
+    letter-spacing: -6px;
+    font-size: calc(60px + (98 - 60) * ((100vw - 320px) / (1600 - 320)));
+}
+
+#hero-6 h2 {
+    font-size: calc(22px + (32 - 22) * ((100vw - 320px)/ (1600 - 320)));
+    font-family: 'Playfair Display', serif;
+    line-height: 1.5;
+    letter-spacing: -1px;
+    color: var(--ontrend-800);
+    font-weight: 500;
+}
+
+#hero-7 header.theme-dark { background-color: var(--trend-800) }
+#hero-7 header.theme-dark h2 { color: var(--sky-300) }
+#hero-7.theme-dark .container-btn a.btn:nth-child(1):link,
+#hero-7.theme-dark .container-btn a.btn:nth-child(1):visited { color: var(--white-000) }
+
+#hero-7.theme-dark .container-btn a.btn:nth-child(2):link,
+#hero-7.theme-dark .container-btn a.btn:nth-child(2):visited { background-color: var(--gray-700) }
+
+#hero-7.theme-dark .container-btn a.btn:nth-child(2):link,
+#hero-7.theme-dark .container-btn a.btn:nth-child(2):visited { border-color: var(--gray-700) }
+
+#hero-7.theme-dark .container-btn a.btn:nth-child(2):link,
+.theme-dark .container-btn a.btn:nth-child(2):visited { color: var(--red-700) }
+
+#hero-7.theme-dark .container-btn a.btn:nth-child(1):link,
+#hero-7.theme-dark .container-btn a.btn:nth-child(1):visited { background-color: var(--sky-500) }
+
+#hero-7.theme-dark .container-btn a.btn:nth-child(1):link,
+#hero-7.theme-dark .container-btn a.btn:nth-child(1):visited { border-color: var(--sky-500) }
+
+#hero-7 header.hero-block h1 {
+    color: var(--gray-100);
+    font-weight: 500;
+    font-family: 'Inter', sans-serif
+ }
+ 
+ #hero-7 .hero-block.hero-half .hero-text-container h2 {
+    color: var(--blue-100); line-height: 1.6;
+    font-size: calc(20px + (26 - 20) * ((100vw - 320px) / (1600 - 320)));
+ }
+
+
+
+#hero-8.theme-light .container-btn a.btn:nth-child(1):link,
+#hero-8.theme-light .container-btn a.btn:nth-child(1):visited { border-color: var(--lime-400) }
+
+#hero-8.theme-light .container-btn a.btn:nth-child(1):focus,
+#hero-8.theme-light .container-btn a.btn:nth-child(1):hover,
+#hero-8.theme-light .container-btn a.btn:nth-child(1):active { background-color: var(--lime-400) }
+
+#hero-8.theme-light .container-btn a.btn:nth-child(1):link,
+#hero-8.theme-light .container-btn a.btn:nth-child(1):visited { color: var(--lime-400) }
+
+#hero-8.theme-light .col-2.col-text h1 span.highlight { color: var(--lime-400) }
+
+#hero-8 h1, #hero8 h2 { font-family: 'Outfit', sans-serif }
+#hero-8 header { background-color: var(--white-000) }
+#hero-8 .hero-half .hero-text-container h1 { color: var(--black-000); letter-spacing: 0 }
+#hero-8 header h1 span { color: #5ba745 }
+#hero-8 header h2 { color: var(--black-000) }
